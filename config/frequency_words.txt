@@ -4,20 +4,26 @@ HarmonyOS
 
 微软
 Microsoft
-Windows
 
 美国
 日本
 韩国
 台湾
+俄罗斯
+中东
+非洲
+东南亚
 
 科技
+金融
 
-python
-rust
-c++
+芯片
+光刻机
+AI
+!gai
+人工智能
+自动驾驶
 
 linux
-archlinux
-debian
-fedora
+Windows
+操作系统
